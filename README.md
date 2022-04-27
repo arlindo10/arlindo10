@@ -1,7 +1,7 @@
 ### Hey, Eu sou o Arlindo Alcântara 👋
 
 
-- 🔭 Desenvolvedor Web - Junior / Front-end e Back-end
+- 🔭 Desenvolvedor Back-end
 - 🌱 Estudante de Engenharia da Computação - IFCE
 - 📫 jose.arlindo.alcantara07@aluno.ifce.edu.br
 
